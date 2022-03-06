@@ -7,7 +7,10 @@ see `juno_client.toml.example`
 - for using test net, see [link](https://docs.junonetwork.io/smart-contracts-and-junod-development/junod-local-dev-setup#quickstart-on-the-testnet-with-a-public-node)
     - node="<public node RCP address>", e.g. "https://rpc.uni.junomint.com:443/"
     - chain-id = "uni-2"
-
+- for online deployment
+    - https://blueprints.juno.giansalex.dev/#/codes/new
+        - this is built from https://github.com/CosmWasm/code-explorer
+    - trial: https://blueprints.juno.giansalex.dev/#/codes/445
 
 This repo is the official repository to work on all NFT standard and examples
 in the CosmWasm ecosystem. `cw721` and `cw721-base` were moved from

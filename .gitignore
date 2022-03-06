@@ -1,5 +1,6 @@
 # secrets
 .env
+txs
 
 # macOS
 .DS_Store
